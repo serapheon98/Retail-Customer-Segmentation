@@ -18,4 +18,4 @@ Python, Pandas, SQL, Power BI
 - images: visuals
 
 ## Author
-Your Name
+Arka Dasgupta
